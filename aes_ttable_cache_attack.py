@@ -465,9 +465,6 @@ def debug():
         t = aes.encrypt_r(p, 2, 0)
 
 if __name__ == "__main__":
-    check_test_vectors()
-    exit()
-
     num_traces = 15
     plaintext_seed = 0
 

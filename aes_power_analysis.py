@@ -232,9 +232,6 @@ def check_test_vectors():
 
 
 if __name__ == "__main__":
-    # check_test_vectors()
-    # exit()
-
     num_traces = 10
     plaintext_seed = 0
 
